@@ -1,63 +1,110 @@
-<!DOCTYPE HTML>
-<html lang="en-us">
-    <head>
-        <title>About</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="mystyle.css">   
-    </head>
-<body>
-    <div>
-<div class="about">
-        <h3>About Gerald</h3><br>
-         <h4>Date of birth</h4><br>
-          <p>Gerald Okoth Otieno was born to Grace Aoko Ochoo and George Otieno Awuor, on 6 September, 2003 at Kisumu district hospital, in Kisumu city.</p>
-          <p>Gerald has been raised since his childhood in the village kanyakwar in Kisumu central constituency.</p><br>
-          <p>Gerald is the forth child of the five siblings, in a family of seven.</p><br>
-</div>
-        <hr>
-        <br>
-<div class="about">
-        <h4>Education background</h4><br>
-          <p>Gerald began his schooling at St. Paul's Kanyakwar Primary School where he say his KCPE in 2015 and excelled. He attained 318 marks out of the possible 500 marks.</p>
-          <p>He then proceeded to St. Anthony Dago Kokore for his high school education.<br>He sat his KCSE in November 2019. His hardwork, commitment and dedication to his studies rewarded him greatly by achieving a mean grade of Be (plain) with 62 points out of the possible 84 points.</p> 
-          <p>Gerald developed interest interest and enthusiasm in computing and therefore made a resolution to pursue a degree in mathematics and computer science in higher learning institution</p>
-          <p>Gerald was invited to join Machakos University in Machakos Kenya where he is currently pursuing his undergraduate degree in the preferred course.</p><br>
-</div>       
-        <hr>
-        <br>
-<div class="about">
-        <h4>Religious background</h4><br>
-          <p>Gerald was born and raised in a Catholic family where he has cherished his catholic faith and hold it to the moment.<br>Gerald is a staunch Christian who has offered to serve God with passion.<br>Gerald is a baptized and confirmed catholic and receives the holy eucharist during mass.</p>He is a member of the choir both at home and in campus where he served as the choir chairman for a couple of years, since he joined campus in 2020.</p><br>In addition, Gerald expressed his interest in music ~playing piano. He therefore decided to join music classes in campus where he acquired  both theoretical and practical skills which has seen him teach music and play piano for the catholic university choir.</p><br>
-</div>        
-        <hr>
-        <br>
-<div class="about">
-          <h4>Hobbies</h4><br>
-          <p>Gerald is a professional pianist, consequently he plays the piano during church service in campus in collaboration with other young talented students.<br>He has also mentored other young stude who have developed interest in music. This he does with a lot of passion since he enjoys music.</p>
-          <p>Gerald plays chess and has participated in chess games with his friends in campus. He began playing chess while in high school where he received mentorship form his former highschool principal.</p>
-          <p>Gerald is a football fan and weigh his support behind Chelsea football club, an English premier league football club.<br>Internationally, he supports France which won the wor cup in 2018 and also the runners up in the 2022 FIFA world cup.</p><br><br>
-</div> 
-    </div>
-  <div id="bottomnav">
-  <div>
-    <nav>
-       <ul>
-            <li><a href="#" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i>facebook</a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>twitter</a></li>                    
-            <li><a href="#" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i>instagram</a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i>youtube</a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i>linkedin</a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>github</a></li>
-       </ul>
-    </nav>
- <div class="myfooter">
-  <hr>
-      <footer>
-        <p><small>&copy;2022. All rights reserved. Powered by cleanmaster.</small></p>
-      </footer> 
-    </div>
-   </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>About</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="This is my personal website"> <!--description of the document-->
+	<link rel="stylesheet" type="text/css" href="..\Css\style.css"> <!--link to external css-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--for responsive layout-->
+	<meta name="author" content="Gerald Okoth"> <!--author of the html doc.-->
+	<link rel="icon" type="image/x-icon" href="C:\Users\Machinery\Desktop\Onedrive\Pictures\My pics\IMG_20230211_134435_930.jpg">
+	<script src="https://kit.fontawesome.com/23021fc8d3.js" crossorigin="anonymous"></script> <!--for embedding font aawesome icons-->
+	<style>
+		.main-content {
+			padding-bottom: 300px;
+		}
 
+		.about {
+			display: grid;
+			grid-template-columns: 65px 1fr;
+		}
+
+		.about-photo img {
+			width: 80px;
+			border-radius: 40px;
+		}
+		.about-info {
+			margin-left: 50px;
+		}
+
+	</style>
+</head>
+<body>
+
+	<!--header content goes in here-->
+	<div class="header-content">
+		<div class="left">
+			<span>Gero</span> <!--header-->
+		</div>
+
+		<div class="middle">
+			<input type="search" id="search" name="search" placeholder="search..."> <!--search tab-->
+		</div>
+
+		<div class="right">
+			<ul>
+				<li><a href="login.html" target="_parent" title="log in here">Login</a></li>
+				<li><a href="new.html" target="_parent" title="sign up here">Sign up</a></li>
+			</ul>
+		</div>
+
+	</div>
+
+	<!--set of navigation links-->
+	<nav>
+		<ul class="top-nav-links">
+			<li><a href="home.html" class="active" target="_self" title="Home page"><i class="fa-solid fa-house"></i>Home</a></li>
+			<li class="drop"><a href="#" class="drop-down" target="_self" title="images and videos"><i class="fa-light fa-camera"></i>Media</a>
+			<ul class="drop-down-menu">
+				<li><a href="images.html" target="_self" title="Images">Images</a></li>
+				<li><a href="videos.html" target="_self" title="Videos">Videos</a></li>					
+			</ul></li>
+			<li class="drop"><a href="#" class="drop-down" target="_self" title="Services i offer"><i class="fa-thin fa-laptop-binary"></i>Services</a>
+				<!--<ul class="drop-down-menu">
+					<li><a href="#" target="_self" title="Images">Web Design</a></li>
+					<li><a href="#" target="_self" title="Videos">Logo Design</a></li>
+					<li><a href="#" target="_self" title="Videos">Keyboard Tutorials</a></li>
+				</ul></li>-->
+			<li><a href="portfolio.html" target="_self" title="Go to latest news"><i class="fa-regular fa-newspaper"></i>Portfolio</a></li>
+			<li><a href="about.html" target="_self" title="Find more about me"><i class="fa-solid fa-address-card"></i>About</a></li>
+			<li><a href="contactme.html" target="_self" title="Contact me"><i class="fa-solid fa-phone"></i>Contact</a></li>
+		</ul>
+	</nav>
+
+	<!--main content goes in here-->
+	<div class="main-content clearfix">
+		<div class="about">
+			<div class="about-photo">
+				<img src="C:\Users\Machinery\Desktop\Onedrive\Pictures\My pics\IMG_20220417_104146_015.jpg" alt="">
+			</div>
+			<div class="about-info">
+				<p>
+					Hi there, i'm Gerald Okoth a computer science student, an enthusiast of software engineering. I am passionate a bout web and software development. i'm currrently working on to build my personal website. This a frontend part of it. Looking forward to back end. Cheers&excl;
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<!--footer content goes in here-->
+	<div class="footer-content">
+
+		<nav class="bottom-navigation">
+			<ul>
+				<li><a href="https://www.instagram.com/okothgerald449" target="_blank"><i class="fa-brands fa-instagram"></i>instagram</a></li>
+                <li><a href="#" target="_blank"><i class="fa-brands fa-facebook"></i>facebook</a></li>
+                <li><a href="https://twitter.com/gerorganist" target="_blank"><i class="fa-brands fa-twitter"></i>twitter</a></li>
+                <li><a href="https://www.youtube.com/@geraldokoth254" target="_blank"><i class="fa-brands fa-youtube"></i>youtube</a></li>
+                <li><a href="https://www.linkedin.com/in/gerald-okoth/" target="_blank"><i class="fa-brands fa-linkedin"></i>linkedin</a></li>
+                <li><a href="https://github.com/GeraldOkoth" target="_blank"><i class="fa-brands fa-github"></i>github</a></li></li>
+			</ul>
+		</nav>
+
+		<footer id="myfooter">
+			<p><small>&copy;2022. All rights reserved. Powered by cleanmaster.</small></p>
+		</footer>
+
+	</div>
+	
 </body>
 </html>
