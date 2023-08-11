@@ -4,18 +4,111 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<style>
+
+		* {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+
+		body {
+			padding-bottom: 2000px;
+		}
+
+		.top-navigation-links {
+			width: 100%;
+			padding: 10px;
+			display: flex;
+			position: relative;
+			justify-content: end;
+			list-style-type: none;
+			background-color: aqua;
+		}
+
+		.top-navigation-links a {
+			padding: 7px;
+			text-decoration: none;
+		}
+
+		/*alternative code for styling navigation bar*/
+		/*.top-navigation-links {
+			right: 0;
+			overflow: hidden;
+			position: fixed;
+			list-style-type: none;
+			background-color: aqua;
+		}
+
+		.top-navigation-links li {
+			display: inline-block;
+		}
+
+		.top-navigation-links a {
+			padding: 14px;
+			display: block;
+			text-decoration: none;
+		}*/
+
+		.drop-down-menu {
+			top: 38px;
+			/*display: none;*/
+			position: absolute;
+			list-style-type: none;
+			background-color: rgb(222, 222, 227);
+			/*box-shadow: 1px 1.5px 6px rgba(0, 0, 0, 0.2); */
+		}
+
+		.drop-down-menu li {
+			
+		}
+
+		.drop-down-menu a {
+			color: #fff;
+			padding: 10px;
+			text-decoration: none;
+		}
+
+		.drop-down-menu a:hover {
+			background-color: rgb(87, 195, 66);
+		}
+
 		img {
-			width: 100px;
-			border-radius: 50px;
-			margin: 70px;
 			float: left;
+			width: 200px;
+			height: 200px;
+			margin:  50px 600px;
+			object-fit: cover;
+			border-radius: 100px;
 		}
 	</style>
 	<title>Document</title>
 </head>
 <body>
+
+	<nav>
+		<ul class="top-navigation-links">
+			<li><a href="home.html" class="active" target="_self" title="Home page"><i class="fa-solid fa-house"></i>Home</a></li>
+			<li class="drop"><a href="#" class="drop-down" target="_self" title="images and videos"><i class="fa-light fa-camera"></i>Media</a>
+			<ul class="drop-down-menu">
+				<li><a href="images.html" target="_self" title="Images">Images</a></li>
+				<li><a href="videos.html" target="_self" title="Videos">Videos</a></li>					
+			</ul></li>
+			<li class="drop"><a href="#" class="drop-down" target="_self" title="Services i offer"><i class="fa-thin fa-laptop-binary"></i>Services</a>
+				<!--<ul class="drop-down-menu">
+					<li><a href="#" target="_self" title="Images">Web Design</a></li>
+					<li><a href="#" ta
+						rget="_self" title="Videos">Logo Design</a></li>
+					<li><a href="#" target="_self" title="Videos">Keyboard Tutorials</a></li>
+				</ul></li>-->
+			<li><a href="portfolio.html" target="_self" title="Go to latest news"><i class="fa-regular fa-newspaper"></i>Portfolio</a></li>
+			<li><a href="about.html" target="_self" title="Find more about me"><i class="fa-solid fa-address-card"></i>About</a></li>
+			<li><a href="contactme.html" target="_self" title="Contact me"><i class="fa-solid fa-phone"></i>Contact</a></li>
+		</ul>
+	</nav>
+
+
 	<div class="home-image">
-		<img src="C:\Users\Machinery\Desktop\Onedrive\Pictures\My pics\1672053194626.jpg" alt="me" width="200px">
+		<img src="C:\Users\Machinery\Desktop\Onedrive\Pictures\My pics\1672053194626.jpg" alt="me">
 	</div>
 	
 </body>
