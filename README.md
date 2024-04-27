@@ -17,6 +17,8 @@
 
 ## 👪Social links
 - 📫 Connect with me on [whatsApp](+254778852760), [github](https://github.com/GeraldOkoth), [linkedin](https://www.linkedin.com/in/geraldokoth/), [twitter](https://twitter.com/gerald_okothKE), [instagram](https://www.instagram.com/okothgerald449/), [facebook](https://www.facebook.com/gerald.okoth.944/), [youtube](https://www.youtube.com/channel/UChy4EZwoIv-KG0hFugqUXYA)
+  
+[![](https://visitcount.itsvg.in/api?id=GeraldOkoth&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!---
 GeraldOkoth/GeraldOkoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
