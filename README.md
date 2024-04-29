@@ -22,7 +22,7 @@
 
 ## GitHub Stats
   
-[![Profile views](https://visitcount.itsvg.in/api?id=GeraldOkoth&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile views](https://visitcount.itsvg.in/api?id=GeraldOkoth&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://github.com/GeraldOkoth/github-readme-stats">
   <img height=200 width=49% align="left" src="https://github-readme-stats.vercel.app/api?username=GeraldOkoth&show_icons=true&theme=transparent" />
