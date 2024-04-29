@@ -16,10 +16,23 @@
    +  C, C++, Java, PHP, SQL, Kotlin, VB.NET, MSAccess
 
 ## 👪Social links
-- 📫 Connect with me on [whatsApp](+254778852760), [github](https://github.com/GeraldOkoth), [linkedin](https://www.linkedin.com/in/geraldokoth/), [twitter](https://twitter.com/gerald_okothKE), [instagram](https://www.instagram.com/okothgerald449/), [facebook](https://www.facebook.com/gerald.okoth.944/), [youtube](https://www.youtube.com/channel/UChy4EZwoIv-KG0hFugqUXYA)
+- 📫 Connect with me on [whatsApp](https://wa.me/+254778852760), [github](https://github.com/GeraldOkoth), [linkedin](https://www.linkedin.com/in/geraldokoth/), [twitter](https://twitter.com/gerald_okothKE), [instagram](https://www.instagram.com/okothgerald449/), [facebook](https://www.facebook.com/gerald.okoth.944/), [youtube](https://www.youtube.com/channel/UChy4EZwoIv-KG0hFugqUXYA)
+
+***
+
+## GitHub Stats
   
-[![](https://visitcount.itsvg.in/api?id=GeraldOkoth&icon=0&color=0)](https://visitcount.itsvg.in)
-![Gerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraldOkoth&show_icons=true&theme=transparent)
+[![Profile views](https://visitcount.itsvg.in/api?id=GeraldOkoth&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a href="https://github.com/GeraldOkoth/github-readme-stats">
+  <img height=200 width=49% align="left" src="https://github-readme-stats.vercel.app/api?username=GeraldOkoth&show_icons=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/GeraldOkoth/convoychat">
+  <img height=200 width=47% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldOKOTH&layout=compact&theme=radical" />
+</a>
+
+<img alt="Streak stats" width=47% height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=GeraldOkoth&show_icons=true&theme=transparent" />
 
 <!---
 GeraldOkoth/GeraldOkoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
