@@ -14,7 +14,7 @@
 2. Version Control System
    + Git and GitHub
 3. Others
-   +  C, C++, C#, Java, PHP, MySQL, Kotlin, VB.NET, MsgiAccess
+   +  C, C++, C#, Java, PHP, MySQL, Kotlin, VB.NET, Ms Access
 
 ## 👪Social links
 - 📫 Connect with me on [whatsApp](https://wa.me/+254778852760), [github](https://github.com/GeraldOkoth), [linkedin](https://www.linkedin.com/in/geraldokoth/), [twitter](https://twitter.com/gerald_okothKE), [instagram](https://www.instagram.com/okothgerald449/), [facebook](https://www.facebook.com/gerald.okoth.944/), [youtube](https://www.youtube.com/channel/UChy4EZwoIv-KG0hFugqUXYA)
