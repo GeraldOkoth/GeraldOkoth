@@ -2,9 +2,9 @@
 
  👋 Hi there, I’m GeraldOkoth(TechiesKE)
 - 💞️ I’m passionate and interested about software development, web development, artificial intelligence and blockchain technologies.
-- 🏫 I’m currently pursuing bachelor's degree in mathematics and computer science at [Machakos University](https://mksu.ac.ke "Machakos University home")
+- 🏫 I’m currently pursuing bachelor's degree in mathematics and computer science at <img src="Machakos_University_Logo.png" alt="Machakos University logo" width="20px"/>[Machakos University](https://mksu.ac.ke "Machakos University home")
 - 👩‍💻 I’m looking forward to collaborate on GitHub code spaces with fellow tech-enthusiasts.
-- 💻I am currently learning programming languages with the aid of [W3Schools](https://www.w3schools.com/ "W3Schools home page")
+- 💻I am currently learning programming languages with the aid of <img src="w3schools.com.png" alt="w3Schools logo" width="16px"/>[W3Schools](https://www.w3schools.com/ "w3Schools home page")
 - 💬Ask me about my friends and you will know who i am.😁
 - 💫 Check out my [portfolio Website](https://geraldokoth.github.io/PortfolioWeb/ "Gerald Okoth home page")
 
