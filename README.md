@@ -20,7 +20,8 @@
 - 📫 Connect with me on [whatsApp](https://wa.me/+254778852760), [github](https://github.com/GeraldOkoth), [linkedin](https://www.linkedin.com/in/geraldokoth/), [twitter](https://twitter.com/gerald_okothKE), [instagram](https://www.instagram.com/okothgerald449/), [facebook](https://www.facebook.com/gerald.okoth.944/), [youtube](https://www.youtube.com/channel/UChy4EZwoIv-KG0hFugqUXYA)
 
 ***
-
+## Quote
+> There are only __10__ types of people in the world: those who understand __binary__ and those who don't. ~ *Anonymous*
 ## GitHub Stats
   
 [![Profile views](https://visitcount.itsvg.in/api?id=GeraldOkoth&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
