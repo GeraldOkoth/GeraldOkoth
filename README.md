@@ -10,7 +10,7 @@
 
 ## 📝Skills
 1. Web development
-   +  HTML5, CSS and JavaScript
+   +  HTML5, CSS, JavaScript, TypeScript
 2. Version Control System
    + Git and GitHub
 3. Others
