@@ -10,15 +10,18 @@
 - 💫 Check out my [portfolio Website](https://geraldokoth.github.io/PortfolioWeb/ "Gerald Okoth home page")
 
 ## 📝Skills
-1. Frontend Technolo gies
-   +  HTML5, CSS, JavaScript, TypeScript
+1. Frontend Technologies
+   +  HTML5, CSS, JavaScript, SASS, TypeScript
 2. Version Control System
    + Git and GitHub
 3. Others
    +  C, C++, C#, Java, PHP, MySQL, Kotlin, VB.NET, Ms Access
 
 ## 👪Social links
-- 📫 Connect with me on [whatsApp](https://wa.me/+254778852760), [github](https://github.com/GeraldOkoth), [linkedin](https://www.linkedin.com/in/geraldokoth/), [twitter](https://twitter.com/gerald_okothKE), [instagram](https://www.instagram.com/okothgerald449/), [facebook](https://www.facebook.com/gerald.okoth.944/), [youtube](https://www.youtube.com/channel/UChy4EZwoIv-KG0hFugqUXYA)
+- 📫 Connect with me on [whatsApp](https://wa.me/+254778852760), [github](https://github.com/GeraldOkoth), [linkedin](https://www.linkedin.com/in/geraldokoth/), [twitter](https://twitter.com/gerald_okothKE),![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/gerald_okothKE)
+ [instagram](https://www.instagram.com/okothgerald449/), [facebook](https://www.facebook.com/gerald.okoth.944/), [youtube](https://www.youtube.com/channel/UChy4EZwoIv-KG0hFugqUXYA)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChy4EZwoIv-KG0hFugqUXYA)
+
 
 ***
 ## Quote
