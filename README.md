@@ -45,7 +45,9 @@
 
 
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> VB.NET, Ms Access
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+   VB.NET, Ms Access
 
 ## 👪Social links
 - 📫 Connect with me on [whatsApp](https://wa.me/+254778852760), [github](https://github.com/GeraldOkoth), [linkedin](https://www.linkedin.com/in/geraldokoth/), [twitter](https://twitter.com/gerald_okothKE),![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/gerald_okothKE)
