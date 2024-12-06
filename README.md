@@ -7,7 +7,7 @@
 - 👩‍💻 I’m looking forward to collaborate on GitHub code spaces with fellow tech-enthusiasts.
 - 💻I am currently learning programming languages with the aid of <img src="w3schools.com.png" alt="w3Schools logo" width="16px"/> [W3Schools](https://www.w3schools.com/ "w3Schools home page")
 - 💬Ask me about my friends and you will know who i am.😁
-- 💫 Check out my [Website](https://geraldokoth.github.io/ "Gerald Okoth home page")
+- 💫 Check out my [Website](https://geraldokoth.vercel.app/ "Gerald Okoth home page")
 
 ## 📝Skills
 1. Frontend Technologies
