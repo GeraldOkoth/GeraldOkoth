@@ -5,6 +5,7 @@
 - 💞️ I’m passionate and interested about Android app development, web development, artificial intelligence and blockchain technologies.
 - 💖I have passion for creating intuitive and visually appealing user interfaces.
 - 👩‍💻 I’m looking forward to collaborate on GitHub code spaces with fellow tech-enthusiasts.
+- I'm currently enrolled at [ALX_Africa](https://alxafrica.com) for front-end web development course.
 - 💻I am currently learning programming languages with the aid of <img src="w3schools.com.png" alt="w3Schools logo" width="16px"/> [W3Schools](https://www.w3schools.com/ "w3Schools home page")
 - 💬Ask me about my friends and you will know who i am.😁
 - 💫 Check out my [portfolio](https://geraldokoth.vercel.app/ "Gerald Okoth home page")
