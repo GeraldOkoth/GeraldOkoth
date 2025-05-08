@@ -1,10 +1,12 @@
  ## 🎗️ About Me
 
- 👋 Hi there, I’m GeraldOkoth(TechiesKE)
-- 🏫 I’m currently pursuing bachelor's degree in mathematics and computer science at <img src="Machakos_University_Logo.png" alt="Machakos University logo" width="20px"/>[Machakos University](https://mksu.ac.ke "Machakos University home")
+ 👋 Hi there, I’m GeraldOkoth aka TechiesKE
+ - I’m a passionate, purpose-driven software engineer in training, focused on creating impactful web applications that solve real-world problems.I thrive in collaborative environments and believe in the power of community to drive growth. As I continue to sharpen my skills through hands-on projects and global tech programs, I’m committed to learning, leading, and lifting others along the way.
+
+- 🏫 I’m a mathematics and computer science degree graduate in waiting at <img src="Machakos_University_Logo.png" alt="Machakos University logo" width="20px"/>[Machakos University](https://mksu.ac.ke "Machakos University home")
 - 💞️ I’m passionate and interested about Android app development, web development, artificial intelligence and blockchain technologies.
 - 💖I have passion for creating intuitive and visually appealing user interfaces.
-- 👩‍💻 I’m looking forward to collaborate on GitHub code spaces with fellow tech-enthusiasts.
+- 👩‍💻 I’m looking forward to collaborate on open-source projects with fellow tech-enthusiasts.
 - I'm currently enrolled at [ALX_Africa](https://alxafrica.com) for front-end web development course.
 - 💻I am currently learning programming languages with the aid of <img src="w3schools.com.png" alt="w3Schools logo" width="16px"/> [W3Schools](https://www.w3schools.com/ "w3Schools home page")
 - 💬Ask me about my friends and you will know who i am.😁
@@ -65,8 +67,6 @@
 ## Quote
 > There are only __10__ types of people in the world: those who understand __binary__ and those who don't. ~ *Anonymous*
 ## GitHub Stats
-  
-[![Profile views](https://visitcount.itsvg.in/api?id=GeraldOkoth&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://github.com/GeraldOkoth/github-readme-stats">
   <img height=200 width=49% align="left" src="https://github-readme-stats.vercel.app/api?username=GeraldOkoth&show_icons=true&theme=transparent" />
