@@ -1,18 +1,17 @@
  ## 🎗️ About Me
 
- 👋 Hi there, I’m GeraldOkoth aka TechiesKE
- - I’m a passionate, purpose-driven software engineer in training, focused on creating impactful web applications that solve real-world problems.I thrive in collaborative environments and believe in the power of community to drive growth. As I continue to sharpen my skills through hands-on projects and global tech programs, I’m committed to learning, leading, and lifting others along the way.
+ 👋 Hi, I’m GeraldOkoth aka TechiesKE
+ - 🏫 I’m a mathematics and computer science graduate from <img src="Machakos_University_Logo.png" alt="Machakos University logo" width="20px"/>[Machakos University](https://mksu.ac.ke "Machakos University home").
+ A purpose-driven software engineer in training, focused on creating user-friendly and  impactful web applications that solve real-world problems.I thrive in collaborative environments and believe in the power of community to drive growth. As I continue to sharpen my skills through hands-on projects and global tech programs, I’m committed to learning, leading, and lifting others along the way. Driven by curiosity for technology, I’m passionate and interested about Android app development, web development, artificial intelligence and blockchain technologies.
 
-- 🏫 I’m a mathematics and computer science degree graduate in waiting at <img src="Machakos_University_Logo.png" alt="Machakos University logo" width="20px"/>[Machakos University](https://mksu.ac.ke "Machakos University home")
-- 💞️ I’m passionate and interested about Android app development, web development, artificial intelligence and blockchain technologies.
-- 💖I have passion for creating intuitive and visually appealing user interfaces.
-- 👩‍💻 I’m looking forward to collaborate on open-source projects with fellow tech-enthusiasts.
+- 👩‍💻 I am striving to increase my GitHub stats rating by contributing and collaborating on open-source projects with fellow tech-enthusiasts.
 - I'm currently enrolled at [ALX_Africa](https://alxafrica.com) for front-end web development course.
 - 💻I am currently learning programming languages with the aid of <img src="w3schools.com.png" alt="w3Schools logo" width="16px"/> [W3Schools](https://www.w3schools.com/ "w3Schools home page")
+- Fun fuct: I play chess, sing and play the piano.
 - 💬Ask me about my friends and you will know who i am.😁
 - 💫 Check out my [portfolio](https://geraldokoth.vercel.app/ "Gerald Okoth home page")
 
-## 📝Skills
+## Tech Stack
 1. Frontend Technologies
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
