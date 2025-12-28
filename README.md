@@ -6,28 +6,28 @@
  I thrive in collaborative environments and believe in the power of community to drive growth. As I continue to sharpen my skills through hands-on projects and global tech programs, I’m committed to learning, leading, and lifting others along the way.   
 I'm a dedicated learner currently enrolled in the __[ALX_Africa](https://alxafrica.com) Front-End Web development Program__, where I'm sharpening my skills in modern web development. My passion lies in building __user-focused web applications__ that not only function well but also look beautiful and feel intuitive to use.
 
- > 🙏🏾 Personal Mission -
+ > Personal Mission -
 “Building meaningful digital solutions with code, creativity, and a deep sense of purpose. I believe in learning with humility, growing through service, and creating with vision.”  
 
-- 🚀 I started software engineering because I believe in the power of technology to solve real-life problems.
-- 🎨 I enjoy creating __visually compelling UIs__ with a strong focus on user experience.
-- 💡 I’m inspired by collaboration, creativity, and meaningful impact.  
-- 💻 I am currently learning programming languages with the aid of <img src="w3schools.com.png" alt="w3Schools logo" width="16px"/> [W3Schools](https://www.w3schools.com/ "w3Schools home page")
-- 💫 Check out my [portfolio](https://geraldokoth.vercel.app/ "Gerald Okoth home page")
+- I started software engineering because I believe in the power of technology to solve real-life problems.
+- I enjoy creating __visually compelling UIs__ with a strong focus on user experience.
+- I’m inspired by collaboration, creativity, and meaningful impact.  
+- I am currently learning programming languages with the aid of <img src="w3schools.com.png" alt="w3Schools logo" width="16px"/> [W3Schools](https://www.w3schools.com/ "w3Schools home page")
+- Check out my [portfolio](https://geraldokoth.vercel.app/ "Gerald Okoth home page")
 
-### 🔨 What I’m Working On
+### What I’m Working On
 
-- 🌐 Front-End Web Apps using __HTML, CSS, JavaScript, React__
-- 🛒 E-commerce & Portfolio Websites
-- 📱 Responsive, accessible designs with __Figma__ and __Miro__
-- 📚 Constantly exploring new tools and best practices in web development
+- Front-End Web Apps using __HTML, CSS, JavaScript, React__
+- E-commerce & Portfolio Websites
+- Responsive, accessible designs with __Figma__ and __Miro__
+- Constantly exploring new tools and best practices in web development
 
-### ✨ Goals
+### Goals
 
-- ✅ Master core front-end technologies
-- ✅ Launch and maintain real-world web apps
-- ✅ Contribute to open-source and collaborate globally
-- ✅ Grow into a well-rounded software engineer with impact
+- Master core front-end technologies
+- Launch and maintain real-world web apps
+- Contribute to open-source and collaborate globally
+- Grow into a well-rounded software engineer with impact
 
 ## Tech Stack
 
@@ -71,9 +71,9 @@ I'm a dedicated learner currently enrolled in the __[ALX_Africa](https://alxafri
    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 
-## 👪 Social links
+## Social links
 
-📫 Connect with me on __[WhatsApp](https://wa.me/+254778852760)__, __[GitHub](https://github.com/GeraldOkoth)__, __[Linkedin](https://www.linkedin.com/in/geraldokoth/)__, __[Twitter](https://twitter.com/gerald_okothKE)__, __[Instagram](https://www.instagram.com/okothgerald449/)__, __[Facebook](https://www.facebook.com/gerald.okoth.944/)__, __[YouTube](https://www.youtube.com/@geraldokothKE)__  
+Connect with me on __[WhatsApp](https://wa.me/+254778852760)__, __[GitHub](https://github.com/GeraldOkoth)__, __[Linkedin](https://www.linkedin.com/in/geraldokoth/)__, __[Twitter](https://twitter.com/gerald_okothKE)__, __[Instagram](https://www.instagram.com/okothgerald449/)__, __[Facebook](https://www.facebook.com/gerald.okoth.944/)__, __[YouTube](https://www.youtube.com/@geraldokothKE)__  
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/gerald_okothKE)  
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChy4EZwoIv-KG0hFugqUXYA)
