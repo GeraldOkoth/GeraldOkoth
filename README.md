@@ -1,106 +1,182 @@
- ## 🎗️ About Me
+# Hi, I'm Gerald Okoth 👋
 
- __👋 Hi, I’m GeraldOkoth aka TechiesKE__  
- I’m a mathematics and computer science graduate from <img src="Machakos_University_Logo.png" alt="Machakos University logo" width="20px"/>[Machakos University](https://mksu.ac.ke "Machakos University home").
- A purpose-driven software engineer in training, focused on creating user-friendly and  impactful web applications that solve real-world problems.  
- I thrive in collaborative environments and believe in the power of community to drive growth. As I continue to sharpen my skills through hands-on projects and global tech programs, I’m committed to learning, leading, and lifting others along the way.   
-I'm a dedicated learner currently enrolled in the __[ALX_Africa](https://alxafrica.com) Front-End Web development Program__, where I'm sharpening my skills in modern web development. My passion lies in building __user-focused web applications__ that not only function well but also look beautiful and feel intuitive to use.
+### Front-End Developer | UI/UX Enthusiast | Aspiring Full-Stack Engineer
 
- > 🙏🏾 Personal Mission -
-“Building meaningful digital solutions with code, creativity, and a deep sense of purpose. I believe in learning with humility, growing through service, and creating with vision.”  
+I build responsive, user-focused web applications with a strong emphasis on **clean interfaces, thoughtful user experiences, and maintainable code**.
 
-- 🚀 I started software engineering because I believe in the power of technology to solve real-life problems.
-- 🎨 I enjoy creating __visually compelling UIs__ with a strong focus on user experience.
-- 💡 I’m inspired by collaboration, creativity, and meaningful impact.  
-- 💻 I am currently learning programming languages with the aid of <img src="w3schools.com.png" alt="w3Schools logo" width="16px"/> [W3Schools](https://www.w3schools.com/ "w3Schools home page")
-- 💫 Check out my [portfolio](https://geraldokoth.vercel.app/ "Gerald Okoth home page")
+My current focus is **Front-End Development and UI/UX Design**, using technologies such as React, JavaScript, Tailwind CSS, and Figma. I'm continuously expanding my skills and working toward becoming a **Full-Stack Software Engineer**, with **Node.js and Express** as my next area of focus.
 
-### 🔨 What I’m Working On
+I enjoy turning ideas into practical digital experiences that solve real problems.
 
-- 🌐 Front-End Web Apps using __HTML, CSS, JavaScript, React__
-- 🛒 E-commerce & Portfolio Websites
-- 📱 Responsive, accessible designs with __Figma__ and __Miro__
-- 📚 Constantly exploring new tools and best practices in web development
+🌐 **Portfolio:** [geraldokoth.vercel.app](https://geraldokoth.vercel.app/)
 
-### ✨ Goals
+---
 
-- ✅ Master core front-end technologies
-- ✅ Launch and maintain real-world web apps
-- ✅ Contribute to open-source and collaborate globally
-- ✅ Grow into a well-rounded software engineer with impact
+## About Me
+
+- 💻 Front-End Developer focused on building responsive web applications
+- ⚛️ Experienced with React and modern JavaScript development
+- 🎨 Passionate about UI/UX and creating intuitive digital experiences
+- 🌱 Continuously learning through hands-on projects and real-world problem solving
+- 🤝 Enjoy collaborating, sharing knowledge, and learning from other developers
+- 🚀 Working toward becoming a Full-Stack Software Engineer
+
+> **My mission:** Build meaningful digital solutions where technology, creativity, and purpose meet.
+
+---
 
 ## Tech Stack
 
-1. __Frontend Technologies__
+### Front-End
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-   <img width="12" />  
-
-2. __UI/UX Design__  
-
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-3. __Backend Technologies__ 
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />  
-
-4. __Tools__  
-
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-
-5. __Others__  
-
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-   <img width="12" />
-   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-
-## 👪 Social links
-
-📫 Connect with me on __[WhatsApp](https://wa.me/+254778852760)__, __[GitHub](https://github.com/GeraldOkoth)__, __[Linkedin](https://www.linkedin.com/in/geraldokoth/)__, __[Twitter](https://twitter.com/gerald_okothKE)__, __[Instagram](https://www.instagram.com/okothgerald449/)__, __[Facebook](https://www.facebook.com/gerald.okoth.944/)__, __[YouTube](https://www.youtube.com/@geraldokothKE)__  
-
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/gerald_okothKE)  
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChy4EZwoIv-KG0hFugqUXYA)
-
-
-<a href="https://twitter.com/gerald_okothke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gerald_okothke" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/geraldokoth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geraldokoth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gerorganist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gerorganist" height="30" width="40" /></a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass"/>
 </p>
 
-***
+### Styling & UI/UX
 
-## Quote
+<p>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma"/>
+</p>
 
-> There are only __``10``__ types of people in the world: those who understand __binary__ and those who don't. ~ *Anonymous*
+### Tools & Workflow
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
+</p>
+
+I'm currently expanding my knowledge of **Node.js, Express, REST APIs, authentication, databases, and backend architecture** as I work toward full-stack development.
+
+---
+
+## Featured Projects
+
+### 🌦️ Weather Dashboard
+
+A responsive weather application that allows users to search for weather conditions and forecasts for different cities.
+
+**Built with:** React · JavaScript · Tailwind CSS · OpenWeather API · Vite
+
+🔗 [Live Demo](https://weather-dashboard-ke.vercel.app/)  
+💻 [GitHub Repository](https://github.com/GeraldOkoth/weather-dashboard)
+
+---
+
+### 🚗 Konnect
+
+A university-focused ride-hailing platform developed to address transportation challenges and provide a more convenient way for students to connect with transport services.
+
+**Focus:** Web application development · UI/UX · Problem solving · Collaboration
+
+🔗 **Live Demo:** Coming soon  
+💻 [GitHub Repository](https://github.com/Samanjey/Konnect)
+
+---
+
+### 🔎 GitHub User Search
+
+A React application that integrates with the GitHub API to search and display GitHub user information, including additional filtering capabilities.
+
+**Built with:** React · JavaScript · Tailwind CSS · GitHub API
+
+🔗 [Live Demo](https://github-userprofile-search.vercel.app/)  
+💻 [GitHub Repository](https://github.com/GeraldOkoth/alx-fe-reactjs/tree/main/github-user-search)
+
+---
+
+### 💼 Personal Portfolio
+
+My personal portfolio showcasing my development journey, projects, skills, and experience as a Front-End Developer.
+
+**Built with:** React · JavaScript · CSS · Framer Motion
+
+🔗 [Live Demo](https://geraldokoth.vercel.app/)  
+💻 [GitHub Repository](https://github.com/GeraldOkoth/portfolio)
+
+---
+
+## What I'm Working Toward
+
+My long-term goal is to become a **Full-Stack Software Engineer** capable of designing, building, and deploying complete digital products.
+
+I'm currently working toward this by:
+
+- Strengthening my Front-End engineering skills
+- Building production-ready React applications
+- Improving my UI/UX design process
+- Learning Node.js and Express
+- Exploring databases and backend architecture
+- Contributing to collaborative and open-source projects
+
+---
+
+## Beyond Coding
+
+I believe great software is not only about writing code. It is about understanding people, communicating ideas, solving problems, and creating experiences that genuinely add value.
+
+My background in mathematics, technology, leadership, and collaboration continues to influence how I approach software development.
+
+---
+
+## Let's Connect
+
+I'm open to **collaboration, internship opportunities, junior developer roles, open-source projects, and meaningful conversations around technology.**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/geraldokoth/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/GeraldOkoth">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+
+  <a href="https://twitter.com/gerald_okothKE">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=x" alt="X"/>
+  </a>
+
+  <a href="mailto:okothgerald449@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+🌐 **Portfolio:** [geraldokoth.vercel.app](https://geraldokoth.vercel.app/)
+
+---
 
 ## GitHub Stats
 
-[![GeraldOkoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraldOkoth&show_icons=true&theme=transparent)](https://github.com/GeraldOkoth/github-readme-stats)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GeraldOkoth&show_icons=true&theme=transparent"
+    alt="Gerald Okoth GitHub Stats"
+  />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldOKOTH&layout=compact&theme=radical)](https://github.com/GeraldOkoth/convoychat)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldOkoth&layout=compact&theme=transparent"
+    alt="Top Languages"
+  />
+</p>
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GeraldOkoth&show_icons=true&theme=transparent)
+---
 
-<!---
-GeraldOkoth/GeraldOkoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Thanks for stopping by 👋
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=geraldokoth)](https://github.com/ryo-ma/github-profile-trophy)
+**Build with purpose. Learn continuously. Create meaningful impact.**
