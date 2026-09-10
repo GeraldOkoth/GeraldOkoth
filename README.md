@@ -20,11 +20,10 @@ I enjoy turning abstract ideas into practical digital experiences that solve rea
 
 ## What I'm Working On
 
-- Front-end web apps with **HTML, CSS, JavaScript, Typescript, React and Tailwind css**
-- Building responsive e-commerce platforms and web interfaces using React & TypeScript.
-- Responsive, accessible UI design with **Figma**
-- Learning **Node.js** to build out my backend and API skills
+- Building responsive e-commerce platforms, portfolio websites and web interfaces using **HTML, CSS, JavaScript, Typescript, React and Tailwind css**
+- Designing responsive, accessible and user friendly  UI designs with **Figma**
 - Wireframing and prototyping mobile-first user interfaces in Figma.
+- Learning **Node.js** to build out my backend and API skills
 
 ## Goals
 
@@ -66,7 +65,7 @@ My long-term goal is to become a Full-Stack Software Engineer capable of designi
 ### Other Languages I've Explored
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/) [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/) [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 
 <br />
 
